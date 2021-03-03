@@ -8,4 +8,4 @@ A simple snake game using python and Tkinter. It uses python turtle module to mo
 
 ## Preview
 
-![]()
+![](snake%20game.png)
